@@ -1,4 +1,6 @@
-1. Create repo - Git init
-2. add all files you want to refer to in commit - git add *
-3. push commits - git push
-4. create a commit with a message - git commit -m "message"
+1. Git init --- Create the repo
+2. git add * --- add all files you want to refer to in the commit
+3. git push --- push commits
+4. git commit -m "message" --- create a commit with a message
+5. git log --- show commits
+6. git diff COMIT_ID COMIT_ID --- show difference between commits
