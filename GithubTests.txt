@@ -4,4 +4,4 @@
 4. git commit -m "message" --- create a commit with a message
 5. git log --- show commits
 6. git diff COMIT_ID COMIT_ID --- show difference between commits
-7. git status --- show status 
+7. git status --- show changed files; added files to commit; not added files to commit; is branch up to date
