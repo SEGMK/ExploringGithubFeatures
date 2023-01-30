@@ -5,3 +5,7 @@
 5. git log --- show commits
 6. git diff COMIT_ID COMIT_ID --- show difference between commits
 7. git status --- show changed files; added files to commit; not added files to commit; is branch up to date
+8. git checkout BRANCH_NAME --- switch to another branch
+9. git branch --- show branches
+10. git branch BRANCH_NAME --- create a new branch with the name
+11. git push origin BRANCH_NAME --- push branch (and commits on it)
